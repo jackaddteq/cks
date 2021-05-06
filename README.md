@@ -1,5 +1,5 @@
 # cks
-
+```
 root@controlplane:~/Assessor-CLI# ./Assessor-CLI.sh -i
 
 --------------------------------------------------------------------------------------
@@ -154,3 +154,4 @@ Assessment Complete for Checklist: CIS Ubuntu Linux 18.04 LTS Benchmark
 Disconnecting Session.
 Finished Assessment 1/1
 Exiting; Exit Code: 0
+```
